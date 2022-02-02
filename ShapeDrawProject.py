@@ -1,7 +1,7 @@
 """
 Noah Francois
 Shape Drawing Project (Python):
-    - Three objects possible to draw. Line, Triangle, or Sqaure. User 
+    - Three objects possible to draw. Line, Triangle, or Square. User 
       determines length and width of object.
 """
 
