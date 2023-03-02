@@ -1,6 +1,5 @@
 //********************************************************************
-// Coin.java Author: Lewis/Loftus
-// Solution to Programming Project 5.6
+// Coin.java Author: Noah Francois
 // Represents a coin with two sides that can be flipped.
 //******************************************************************** 
 
